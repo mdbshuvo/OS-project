@@ -1,0 +1,4 @@
+menuentry 'MY_OS' {
+    multiboot /media/badiuzzaman/NOTHING/SOMETHING/CSE 3-2/CSE 3202/Lab - maybe 8/coses/myKernel.bin
+    boot
+}
